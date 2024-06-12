@@ -1,5 +1,5 @@
 const credentials = {
-    username: '',
-    password: '',
+  username: '',
+  password: '',
 };
-module.exports = credentials; 
+module.exports = credentials;
